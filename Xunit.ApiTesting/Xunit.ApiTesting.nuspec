@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>xunit.apitesting</id>
+    <version>$version$</version>
+    <authors>Antura</authors>
+    <description>
+      An easy way to test restapis
+    </description>
+  </metadata>
+</package>
